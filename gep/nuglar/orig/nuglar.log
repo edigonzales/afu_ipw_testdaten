@@ -1,0 +1,78 @@
+Info: ilivalidator-1.11.9-7dab04f1037b40b6219ae2e584b3fcc1bc10726d
+Info: ili2c-5.1.5-35f2a1fe63ea46830bc886ae50a3a818125c8eb9
+Info: iox-ili-1.21.4-3757f7907f90ae2bef2be7c97d50d11770fc5f1f
+Info: User <stefan>
+Info: Start date 2021-02-05 10:13
+Info: maxMemory 4194304 KB
+Info: dataFile <Nuglar_DSS-Mini_2020_20201028.XTF>
+Info: pluginFolder </Users/stefan/apps/ilivalidator-1.11.9/plugins>
+Info: modeldir <https://vsa.ch/models>
+Info: lookup model <VSADSSMINI_2020_LV95> 2.3 in repository <https://vsa.ch/models/>
+Info: lookup model <IGSFunction> 2.3 in repository <https://vsa.ch/models/>
+Info: lookup model <MINIFunction> 2.3 in repository <https://vsa.ch/models/>
+Info: lookup model <Units> 2.3 in repository <https://vsa.ch/models/>
+Info: lookup model <Units> 2.3 in repository <http://models.kkgeo.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Base_LV95> 2.3 in repository <https://vsa.ch/models/>
+Info: lookup model <SIA405_Base_Abwasser_LV95> 2.3 in repository <https://vsa.ch/models/>
+Info: ilifile </Users/stefan/.ilicache/vsa.ch/models/2020/IGSFunction.ili>
+Info: ilifile </Users/stefan/.ilicache/vsa.ch/models/2020/MINIFunction.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/Units-20120220.ili>
+Info: ilifile </Users/stefan/.ilicache/vsa.ch/models/2020/Base_d-20181005.ili>
+Info: ilifile </Users/stefan/.ilicache/vsa.ch/models/2020/SIA405_Base_Abwasser-20201103.ili>
+Info: ilifile </Users/stefan/.ilicache/vsa.ch/models/2020/VSADSSMINI_2020_2_d_LV95-20201209.ili>
+Info: validate data...
+Info: assume unknown external objects
+Info: first validation pass...
+Error: line 45759: VSADSSMINI_2020_LV95.VSADSSMini.Knoten: tid 2020042200060003: value <2020042200060003> is not a valid OID
+Error: line 45771: VSADSSMINI_2020_LV95.VSADSSMini.Knoten: tid 2020042200060005: value <2020042200060005> is not a valid OID
+Error: line 45795: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzk4: OID A001flqs25kytzk4 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45807: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytz9j: OID A001flqs25kytz9j of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45819: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyg7: OID A001flqs25kytyg7 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45831: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyvy: OID A001flqs25kytyvy of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45843: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytz58: OID A001flqs25kytz58 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45855: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyvk: OID A001flqs25kytyvk of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45867: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyvx: OID A001flqs25kytyvx of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45879: VSADSSMINI_2020_LV95.VSADSSMini.Knoten: tid 2020042200060006: value <2020042200060006> is not a valid OID
+Error: line 45891: VSADSSMINI_2020_LV95.VSADSSMini.Knoten: tid 2020042200060002: value <2020042200060002> is not a valid OID
+Error: line 45914: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzkn: OID A001flqs25kytzkn of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45926: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytza2: OID A001flqs25kytza2 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45938: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyt4: OID A001flqs25kytyt4 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45950: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytywh: OID A001flqs25kytywh of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45962: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytz3o: OID A001flqs25kytz3o of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 45974: VSADSSMINI_2020_LV95.VSADSSMini.Knoten: tid 2020042323130001: value <2020042323130001> is not a valid OID
+Error: line 46006: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzpd: OID A001flqs25kytzpd of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46018: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytynh: OID A001flqs25kytynh of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46030: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyij: OID A001flqs25kytyij of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46042: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytz00: OID A001flqs25kytz00 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46054: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytz86: OID A001flqs25kytz86 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46066: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyuw: OID A001flqs25kytyuw of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46078: VSADSSMINI_2020_LV95.VSADSSMini.Knoten: tid 2020042323470001: value <2020042323470001> is not a valid OID
+Error: line 46117: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyug: OID A001flqs25kytyug of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46129: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyuf: OID A001flqs25kytyuf of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46141: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyue: OID A001flqs25kytyue of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46153: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyud: OID A001flqs25kytyud of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46165: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzf3: OID A001flqs25kytzf3 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46177: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzf2: OID A001flqs25kytzf2 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46189: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzf1: OID A001flqs25kytzf1 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46201: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzf0: OID A001flqs25kytzf0 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46213: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyo1: OID A001flqs25kytyo1 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46225: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyjt: OID A001flqs25kytyjt of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46237: VSADSSMINI_2020_LV95.VSADSSMini.Knoten: tid 2020042813570001: value <2020042813570001> is not a valid OID
+Error: line 46260: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzn7: OID A001flqs25kytzn7 of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46272: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytzcm: OID A001flqs25kytzcm of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46284: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytyro: OID A001flqs25kytyro of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46296: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytylj: OID A001flqs25kytylj of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Error: line 46308: VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text: tid A001flqs25kytz1t: OID A001flqs25kytz1t of object VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text already exists in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text.
+Info: Nuglar_DSS-Mini_2020_20201028.XTF: VSADSSMINI_2020_LV95.VSADSSMini BID=BASKET1
+Info:    1454 objects in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten
+Info:    1783 objects in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Knoten_Text
+Info:       1 objects in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Leitung
+Info:       2 objects in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Leitung_Text
+Info:       2 objects in CLASS VSADSSMINI_2020_LV95.VSADSSMini.Rohrprofil
+Error: javax.xml.stream.XMLStreamException: ParseError at [row,col]:[46546,33]
+Message: Invalid byte 1 of 1-byte UTF-8 sequence.
+Error:   ParseError at [row,col]:[46546,33]
+Message: Invalid byte 1 of 1-byte UTF-8 sequence.
+Info: ...validation failed
